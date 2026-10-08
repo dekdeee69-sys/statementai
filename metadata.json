@@ -1,0 +1,6 @@
+{
+  "name": "Bank Statement OCR & Reconciliation AI",
+  "description": "High-accuracy multi-page bank statement OCR and reconciliation tool powered by Gemini AI with Excel, CSV, and JSON export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
